@@ -1,0 +1,37 @@
+<!DOCTYPE html>  
+<html>
+<body>  
+  <body style="background-color:lightblue;">
+    <p style="front-size:30px;"><h1 class="round3">MARÍA ÁNGELA NIETO</h1>
+  <img src="https://mujeresconciencia.com/app/uploads/2024/12/Angela-Nieto-1-300x168.png"
+<head> 
+    <h2><i>BIOFRAFÍA</i></h2>
+    
+    <p>María Ángela Nieto Toledano (Madrid, 1 de marzo de 1960) es una científica española, doctora en Bioquímica y Biología Molecular, que desarrolla su labor en el Instituto de Neurociencias de Alicante —centro mixto del Consejo Superior de Investigaciones Científicas (CSIC) y la Universidad Miguel Hernández de Elche (UMH).</p>
+    
+    <h2><i>TRAYECTORIA PROFESIONAL</i></h2>
+   
+    <p> La investigadora se doctoró en 1987 en la Universidad Autónoma de Madrid y ha desarrollado una destacada carrera científica centrada en la transición epitelio-mesénquima (EMT), tanto en el desarrollo embrionario como en patologías del adulto como el cáncer y la fibrosis. Tras trabajar en centros de investigación en Madrid, Londres y posteriormente en el Instituto Cajal (CSIC), fue pionera en caracterizar el papel de los factores de transcripción Snail, vinculándolos con la migración celular, el cáncer y la EMT. En 2004, se trasladó al Instituto de Neurociencias en Alicante (CSIC-UMH), donde ha continuado liderando investigaciones sobre el papel de Snail en enfermedades renales, óseas y el desarrollo embrionario.</P>
+
+<P>Su trabajo ha revolucionado la comprensión del cáncer, demostrando que la EMT es un proceso reversible necesario para la diseminación tumoral pero que debe desactivarse para formar metástasis. También ha investigado malformaciones congénitas y ha propuesto nuevas terapias antifibróticas.</P>
+
+<P>Además, ocupa cargos relevantes en instituciones científicas nacionales e internacionales, como presidenta de la ISDB, delegada en el EMBL/EMBC, y miembro de EMBO, la Academia Europea y varios comités científicos y editoriales de prestigio.</P>
+
+<P>Contribución principal: el estudio de la transición epitelio-mesénquima en desarrollo y enfermedad.</p>
+    
+     <h2><i>PREMIOS Y RECONOCIMIENTOS</i></h2>
+  <p><p>2004: Premio de la Fundación Carmen y Severo Ochoa</p>
+<p>2005: Premio Francisco Cobos a la Investigación Biomédica</p>
+<p>2006: Premio Alberto Sols a la Mejor Labor Investigadora</p>
+<p>2008: Conferencia L'Oréal-UNESCO Congreso SEBBM</p>
+<p>2009: Rey Jaime I en Investigación Básica</p>
+<p>2015: Distinción al mérito científico en los Premios 9 de Octubre (Generalidad Valenciana)</p>
+<p>2016: Premio a la Investigación Básica en Nefrología; Fundación Renal IAT</p>
+<p>2017: Premio Rotary Club Alicante</p>
+<p>2017: Premio México 2017 de Ciencia y Tecnología otorgado por el Gobierno de México, a investigadores que hayan contribuido de manera significativa al conocimiento científico universal, distinguiéndose por el impacto internacional de sus aportaciones, además de consolidar una línea de investigación en la formación de recursos humanos en los campos de la ciencia y la tecnología. Busca también estimular el vínculo entre la comunidad científica de México y el Caribe, España, Portugal, Centro y Sudamérica.</p>
+<p>2018: Premio de la Fundación Lilly a la Investigación Biomédica Preclínica.</p>
+<p>2018: Premio a la Investigación del Cáncer 2018, otorgado por la Asociación Española de Investigación sobre el Cáncer.</p>
+<p>2018: Premio Alberto Sols al mejor trabajo científico 2016-2017</p>
+<p>2019: Premio IMPORTANTES del Diario Información.</p>
+<p>2019: El Premio Nacional de Investigación ‘Santiago Ramón y Cajal’ de Biología, el premio le ha sido concedido por el estudio de la transición epitelio-mesénquima, proceso biológico fundamental en la comprensión del origen del cáncer y las enfermedades degenerativas del envejecimiento.</p>
+<p>2021: Premio Internacional L'Oréal-UNESCO a Mujeres en Ciencia, en representación de Europa, por sus descubrimientos fundamentales sobre el modo en que las células cambian de identidad en el curso del desarrollo embrionario, que han abierto el camino para el desarrollo de enfoques terapéuticos nuevos en el marco del tratamiento del cáncer y su propagación a otros tejidos.</p>

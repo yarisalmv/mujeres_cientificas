@@ -1,0 +1,36 @@
+<!DOCTYPE html>  
+<html>
+<body>  
+  <body style="background-color:lightblue;">
+    <p style="front-size:30px;"><h1 class="round3">ALICIA MAGDALENA SINTES</h1>
+<img src="https://gadeaciencia.org/wp-content/uploads/2019/02/Foto-A-Sintes.jpg">
+<head> 
+    <h2><i>BIOFRAFÍA</i></h2>
+    
+    <p>Alicia Magdalena Sintes Olives (nacida en 1969 en Sant Lluís, Menorca) es una destacada física teórica española, especializada en astronomía de ondas gravitacionales. Es catedrática en la Universidad de las Islas Baleares (UIB), donde lidera el Grupo de Relatividad y Gravitación, el único en España que participa activamente en el proyecto LIGO, responsable de la primera detección directa de ondas gravitacionales en 2015</p>
+    
+    <h2><i>FORMACIÓN Y TRAYECTORIA CIENTÍFICA</i></h2>
+   
+    <p> Sintes se licenció en Física en 1992 y obtuvo su doctorado en 1996 en la UIB. Posteriormente, fue becaria Marie Curie y realizó una estancia postdoctoral en el Instituto Max Planck de Física Gravitacional (Instituto Albert Einstein) en Alemania. Desde 2002, ha sido una figura clave en la participación española en las colaboraciones científicas LIGO y GEO, y también forma parte del Consorcio LISA y del equipo científico del Telescopio Einstein.</P>
+    
+     <h2><i>ÁREAS DE INVESTIGACIÓN</i></h2>
+  <p>Su trabajo se centra en la detección y análisis de ondas gravitacionales, especialmente en la búsqueda de señales provenientes de estrellas de neutrones y sistemas binarios de agujeros negros. Ha liderado grupos de trabajo en LIGO-Virgo y ha contribuido significativamente al desarrollo de métodos para la identificación de fuentes astrofísicas .</p>
+    
+ <h2><i>RECONOCIMIENTOS Y PREMIOS</i></h2>
+  <p>A lo largo de su carrera, Sintes ha recibido numerosos galardones, entre ellos:</p>
+    <p>2018 - Nombrada “Hija Predilecta de Sant Lluís”</p>
+<p>2018 - Miembro de la “Selección Española de Ciencia 2018” de QUO y CSIC</p>
+<p>2018 - Premio Bartomeu Oliver 2018 de la Obra Cultural Balear</p>
+<p>2017 - Premio Ramon Llull 2017 del Gobierno de las Islas Baleares</p>
+<p>2017 - Premio Medalla de Oro de Palma 2017</p>
+<p>2017 - Cogalardonada con el premio Princesa de Asturias 2017</p>
+<p>2016 - Premio Jaume II 2016 del Consejo Insular de Mallorca</p>
+<p>2016 - Galardonada junto al resto del equipo LIGO con el premio Gruber de Cosmología 2016</p>
+<p>2021 - Galardonada con el VIII Premio Mujeres a Seguir en su categoría de Ciencia</p>
+         <h2><i>COMPROMISO Y DIVULGACIÓN</i></h2>
+  <p>Su trabajo se centra en la detección y análisis de ondas gravitacionales, especialmente en la búsqueda de señales provenientes de estrellas de neutrones y sistemas binarios de agujeros negros. Ha liderado grupos de trabajo en LIGO-Virgo y ha contribuido significativamente al desarrollo de métodos para la identificación de fuentes astrofísicas .</p>
+    
+     <h2><i>VIDA PERSONAL</i></h2>
+  <p>Vida personal
+Está casada con el físico Sascha Husa, experto en agujeros negros, con quien colabora profesionalmente. Juntos tienen una hija y han establecido su vida y carrera en las Islas Baleares .</P>
+

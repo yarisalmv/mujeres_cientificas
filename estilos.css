@@ -1,0 +1,21 @@
+body{
+h1.round3 {
+  border: 5px lightblue;
+  background-color: lightblue;
+}
+  html,body{
+    display-text: center;
+    height: 100%;
+    margin:0;
+  }
+  }
+img {
+  display: block;
+  margin: auto;
+  width: 50%
+  height: 50%
+}
+
+table {
+  width: 100%;
+}

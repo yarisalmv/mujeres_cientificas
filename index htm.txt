@@ -1,0 +1,16 @@
+<!DOCTYPE html>  
+<html>
+<body>  
+  <p style="font-size:50px;">MUJERES CIENTÍFICAS</p>
+  <body style="background-color:lightblue;">
+ <body> 
+<table> 
+  <tr> 
+    <td>  <h2><p align="center"style="font-size:25px;"> <a href= "https://codepen.io/Yarisa-the-animator/pen/jEERoMd" </a>MARÍA ÁNGELA NIETO </p></td>
+    <td><h1><h2><p align="center"style="font-size:25px;"> <a href=https://codepen.io/Yarisa-the-animator/pen/gbbyJoK </a>ALICIA MAGDALENA SINTES</p></td>
+  </tr>
+   <tr>
+      <td><img src="https://cientificasinnovadoras.fecyt.es/sites/default/files/images/m-angela-nieto-toledano.jpg" width="200" height="250"></td>
+<td><img src="https://www.ajsantlluis.org/WebEditor/Pagines/image/Al%C3%ADciaSintesOlives.jpg" width="200" height="250"></td>    
+ </body>
+</html> 
